@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Маша Кустова](https://up.htmlacademy.ru/javascript/20/user/1165017).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Новиков](https://htmlacademy.ru/profile/id1499681).
 
 ---
 
